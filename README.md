@@ -18,6 +18,7 @@ Uma plataforma de atendimento robusta baseada no **Whaticket V6**, aprimorada co
 
 ### **💻 Requisitos de Sistema**
 
+01 - Servidor VPS Ubuntu 22.04
 Para garantir a melhor performance, seu servidor deve atender às seguintes especificações mínimas:
 
   * **Sistema Operacional:** Ubuntu 22.04 LTS.
@@ -31,6 +32,10 @@ Para garantir a melhor performance, seu servidor deve atender às seguintes espe
 Contabo vps: https://contabo.com/en/linux-vps/
 
 Hertzen vps: https://www.hetzner.com/cloud/
+
+02 - um(1) Endereço de dominío adicionado a Cloudflare
+
+CloudFlare: https://www.cloudflare.com/pt-br/
 
 -----
 
