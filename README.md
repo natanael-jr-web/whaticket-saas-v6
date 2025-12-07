@@ -3,6 +3,7 @@
 Uma plataforma de atendimento robusta baseada no **Whaticket V6**, aprimorada com um módulo Kanban, modo noturno e integrações avançadas para otimizar a comunicação com seus clientes.
 
 -----
+![whatickt-saas-v6](https://user-images.githubusercontent.com/....png)
 
 ### **✨ Funcionalidades Principais**
 
@@ -27,15 +28,15 @@ Para garantir a melhor performance, seu servidor deve atender às seguintes espe
 
 #### **🚀 Provedores VPS Recomendados**
 
-Contabo vps:
+Contabo vps: https://contabo.com/en/linux-vps/
 
-Hertzen vps
+Hertzen vps: https://www.hetzner.com/cloud/
 
 -----
 
 ### **📚 Documentação e Suporte**
 
-  * **Documentação Completa:** Acesse nosso guia de instalação e configuração em: [whaticket.store/doc-whaticket/](https://www.whaticket.store/doc-whaticket/).
+  * **Documentação Completa:** Acesse nosso guia de instalação e configuração em: [whaticket.store/doc-whaticket/](https://).
   * **Suporte Técnico:** O suporte técnico é um serviço exclusivo, vinculado à aquisição da Licença Comercial. Após a compra, entre em contato via WhatsApp para obter seu acesso.
 
 #### **🛒 Adquira sua Licença Comercial e Acesso ao Suporte**
