@@ -5,6 +5,8 @@ Uma plataforma de atendimento robusta baseada no **Whaticket V6**, aprimorada co
 -----
 ![whatickt-saas-v6](https://github.com/natanael-jr-web/whaticket-saas-v6/blob/main/whaticket-saas-V6.png)
 
+DEMO: (https://app-demo.whaticket.store)
+
 ### **✨ Funcionalidades Principais**
 
   * **Gestão Visual:** Quadro **Kanban** integrado para organizar e priorizar tickets.
