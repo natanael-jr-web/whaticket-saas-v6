@@ -3,7 +3,7 @@
 Uma plataforma de atendimento robusta baseada no **Whaticket V6**, aprimorada com um módulo Kanban, modo noturno e integrações avançadas para otimizar a comunicação com seus clientes.
 
 -----
-![whatickt-saas-v6]([https://user-images.githubusercontent.com/....png](https://github.com/natanael-jr-web/whaticket-saas-v6/blob/main/whaticket-saas-V6.png?raw=true))
+![whatickt-saas-v6](https://github.com/natanael-jr-web/whaticket-saas-v6/blob/main/whaticket-saas-V6.png)
 
 ### **✨ Funcionalidades Principais**
 
