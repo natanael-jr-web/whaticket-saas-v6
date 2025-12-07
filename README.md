@@ -125,31 +125,6 @@ Contato para instalação e suporte:
   * API atualizada.
   * Novo layout da página de login.
 
-# **⚖️ Termos de Uso e Licenciamento**
-
-**1. Licença de Uso do Software WhaTicket SaaS | Gold Edition**
-
-O **WhaTicket SaaS | Gold Edition**, distribuído pela **Launcher & Co.**, é um software derivado de projetos de código aberto. No entanto, esta versão específica, com suas modificações, integrações e funcionalidades agregadas, é regida pelos seguintes termos:
-
-  * **Uso Pessoal e para Estudos:** Você tem a liberdade de baixar, instalar e utilizar o software para fins estritamente pessoais e de aprendizado. Esta modalidade **NÃO** concede o direito de uso comercial, revenda ou oferta do sistema como um serviço (SaaS).
-  * **Uso Comercial, Revenda e SaaS:** Para utilizar o software em um ambiente comercial, revendê-lo (modificado ou em sua forma original) ou explorá-lo como uma plataforma de serviço (SaaS), é **obrigatória a aquisição de uma Licença Comercial** junto à Launcher & Co. A licença garante o direito de exploração comercial e o acesso ao suporte técnico oficial.
-
-A exploração comercial não autorizada do software constitui uma violação destes termos e da propriedade intelectual sobre as modificações e materiais agregados.
-
-**2. Sobre o Material de Apoio e Tutoriais (Conteúdo Autoral)**
-
-Todo e qualquer material de apoio (videoaulas, guias, tutoriais, manuais e documentações) desenvolvido pela **Launcher Tecnologia Ltda ME** (CNPJ: **26.651.889/0001-60**, nome fantasia **Launcher Tech**, nome comercial **Launcher & Co.**) é classificado como conteúdo autoral e propriedade intelectual da empresa.
-
-Estes materiais são destinados exclusivamente para o estudo e uso pessoal do comprador original. Portanto, é **ESTRITAMENTE PROIBIDO**:
-
-  * A revenda ou qualquer outra forma de comercialização deste material.
-  * O compartilhamento público do conteúdo em qualquer plataforma.
-  * A realização de modificações, traduções, ou qualquer alteração que vise se apropriar da autoria do material.
-  * A utilização do conteúdo para criar produtos derivados ou concorrentes.
-  * Apresentar o material, no todo ou em parte, como se fosse de sua própria autoria.
-
-**3. Proteção Legal e Penalidades**
-
 Os materiais de apoio, tutoriais e as modificações autorais presentes nesta versão do software, distribuídos pela Launcher & Co., são juridicamente protegidos pela **Avctoris**. A violação dos direitos autorais e dos termos de licenciamento é crime. O infrator está sujeito às penalidades legais previstas na **Lei nº 9.610/98** (Lei de Direitos Autorais), na **Lei nº 9.279/96** (Lei de Propriedade Industrial) e no **art. 184 do Código Penal Brasileiro**, além de estar sujeito ao pagamento de indenização pelos prejuízos materiais e morais causados.
 
 Ao adquirir e utilizar nosso software e material de apoio, você concorda integralmente com os termos aqui estabelecidos.
