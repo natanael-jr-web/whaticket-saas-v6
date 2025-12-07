@@ -42,10 +42,6 @@ Hertzen vps
 
 Para uso comercial, revenda ou exploração da plataforma como SaaS, é obrigatória a aquisição de uma licença.
 
-  * [Loja 1](https://www.site.com)
-  * [LOja 2](https://www.site.com)
-
-
 Contato para instalação e suporte: 
 
 * [WhatsApp](https://wa.me/5573981355929)
