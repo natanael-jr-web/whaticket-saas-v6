@@ -43,7 +43,6 @@ CloudFlare: https://www.cloudflare.com/pt-br/
 
 ### **📚 Documentação e Suporte**
 
-  * **Documentação Completa:** Acesse nosso guia de instalação e configuração em: [whaticket.store/doc-whaticket/](https://).
   * **Suporte Técnico:** O suporte técnico é um serviço exclusivo, vinculado à aquisição da Licença Comercial. Após a compra, entre em contato via WhatsApp para obter seu acesso.
 
 #### **🛒 Adquira sua Licença Comercial e Acesso ao Suporte**
