@@ -124,7 +124,3 @@ Contato para instalação e suporte:
   * Indicação "Digitando" ou "Gravando" no canto inferior direito do ticket.
   * API atualizada.
   * Novo layout da página de login.
-
-Os materiais de apoio, tutoriais e as modificações autorais presentes nesta versão do software, distribuídos pela Launcher & Co., são juridicamente protegidos pela **Avctoris**. A violação dos direitos autorais e dos termos de licenciamento é crime. O infrator está sujeito às penalidades legais previstas na **Lei nº 9.610/98** (Lei de Direitos Autorais), na **Lei nº 9.279/96** (Lei de Propriedade Industrial) e no **art. 184 do Código Penal Brasileiro**, além de estar sujeito ao pagamento de indenização pelos prejuízos materiais e morais causados.
-
-Ao adquirir e utilizar nosso software e material de apoio, você concorda integralmente com os termos aqui estabelecidos.
