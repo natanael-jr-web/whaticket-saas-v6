@@ -5,7 +5,7 @@ Uma plataforma de atendimento robusta baseada no **Whaticket V6**, aprimorada co
 -----
 ![whatickt-saas-v6](https://github.com/natanael-jr-web/whaticket-saas-v6/blob/main/whaticket-saas-V6.png)
 
-DEMO: (https://app-demo.whaticket.store)
+DEMO: (https://app-demo.whaticket.store)</br>
 CONTATO: 55 (73) 9 8135-5929  * [WhatsApp](https://wa.me5573981355929)
 
 ### **✨ Funcionalidades Principais**
@@ -52,7 +52,8 @@ Para uso comercial, revenda ou exploração da plataforma como SaaS, é obrigat�
 
 Contato para instalação e suporte: 
 
-* [WhatsApp](https://wa.me/5573981355929)
+DEMO: (https://app-demo.whaticket.store)</br>
+CONTATO: 55 (73) 9 8135-5929  * [WhatsApp](https://wa.me5573981355929)
 
 -----
 
